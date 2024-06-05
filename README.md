@@ -1,4 +1,7 @@
 # SipAdvisor
+
+## STILL IN DEVELOPMENT
+
 App created by Garrett Baltz, begun Oct 19 2023
 
 SipAdvisor provides a simple way of keeping track of alcohol consumption through the day with a simple logging method for each drink taken.
